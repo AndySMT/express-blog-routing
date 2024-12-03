@@ -11,7 +11,7 @@ const posts = [
     titolo: "Cracker di Barbabietola",
     contenuto:
       "Sfiziosi cracker di barbabietola accompagnati da una crema al formaggio.",
-    immagine: "cracker_barbabietola.jpeg",
+    immagine: "/cracker_barbabietola.jpeg",
     tag: ["antipasto", "barbabietola", "snack"],
   },
   {
@@ -19,21 +19,21 @@ const posts = [
     titolo: "Pane Fritto Dolce",
     contenuto:
       "Cubetti di pane fritto zuccherati, perfetti per una pausa dolce.",
-    immagine: "pane_fritto_dolce.jpeg",
+    immagine: "/pane_fritto_dolce.jpeg",
     tag: ["dolce", "fritto", "dessert"],
   },
   {
     id: 4,
     titolo: "Pasta alla Barbabietola",
     contenuto: "Pasta con crema di barbabietola e granella di pistacchio.",
-    immagine: "pasta_barbabietola.jpeg",
+    immagine: "/pasta_barbabietola.jpeg",
     tag: ["primo piatto", "barbabietola", "pasta"],
   },
   {
     id: 5,
     titolo: "Torta Paesana",
     contenuto: "Una torta perfetta per colazioni e merende.",
-    immagine: "torta_paesana.jpeg",
+    immagine: "/torta_paesana.jpeg",
     tag: ["dolce", "torta", "colazione", "dessert"],
   },
 ];
